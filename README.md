@@ -23,7 +23,7 @@ npm install
 node index.js
 ```
 
-## Pruebas con método await
+## Pruebas con cada uno de los métodos disponibles
 
 ```bash
 node requests-await.js await
